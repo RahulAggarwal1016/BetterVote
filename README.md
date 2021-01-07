@@ -1,6 +1,9 @@
 # BetterVOTE
 Team Exabyte's project for ByteHacks 2020
 
+Video Demo: https://youtu.be/9a6Sl-4SOhE
+SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPbu1zl9BVycTq1GGVZjxuFjEt0wySWisj4/edit?usp=sharing
+
 ## Inspiration
 For ByteHacks’ theme, we had to come up with an **app that solved a problem during a historical event.** Our team’s chosen historical event is the 1898 Canadian prohibition plebiscite. This was the first nationwide referendum in Canadian history. This was a divisive topic and the vote in favour of the proposed legislation won by a slight margin, but ultimately, the Canadian government decided not to implement it due to only 44% voter turnout.
 
@@ -17,10 +20,6 @@ Clicking on a ballot in “Active Ballots” or in “View Completed Ballots” 
 The “Vote!” button leads you to a page to either vote for, against or abstain from the current ballot. Successfully voting will lead you back to the organization’s page and an alert will pop up to confirm that your vote was submitted.  Completed ballots will display all of the previous information (title, description, arguments) for historical accuracy, show if it passed or failed and the finalized vote percentages.
 
 Other features include a profile page button on the list of organizations which leads to a user’s profile. There, they can view their name, email, their list of organizations. There is also a section for more information, including the terms of service and a logout button.
-
-SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPbu1zl9BVycTq1GGVZjxuFjEt0wySWisj4/edit?usp=sharing
-
-Video Demo: https://youtu.be/9a6Sl-4SOhE
 
 ## Technologies Used
 
