@@ -22,6 +22,10 @@ SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPb
 
 Video Demo: https://youtu.be/9a6Sl-4SOhE
 
+## Technologies Used
+
+React Native, Node.js, Express, MongoDB
+
 ## How to run the application
 1. Run `git clone https://github.com/Carolx715/ByteHacks.git` in your command line
 2. `cd` into the project directory
