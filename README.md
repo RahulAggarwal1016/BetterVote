@@ -3,6 +3,7 @@ Team Exabyte's project for ByteHacks 2020
 
 Video Demo: https://youtu.be/9a6Sl-4SOhE <br />
 SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPbu1zl9BVycTq1GGVZjxuFjEt0wySWisj4/edit?usp=sharing
+Devpost Submission: https://devpost.com/software/bytehacks
 
 ## Inspiration
 For ByteHacks’ theme, we had to come up with an **app that solved a problem during a historical event.** Our team’s chosen historical event is the 1898 Canadian prohibition plebiscite. This was the first nationwide referendum in Canadian history. This was a divisive topic and the vote in favour of the proposed legislation won by a slight margin, but ultimately, the Canadian government decided not to implement it due to only 44% voter turnout.
