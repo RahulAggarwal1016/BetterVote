@@ -2,7 +2,7 @@
 Team Exabyte's project for ByteHacks 2020
 
 Video Demo: https://youtu.be/9a6Sl-4SOhE <br />
-SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPbu1zl9BVycTq1GGVZjxuFjEt0wySWisj4/edit?usp=sharing
+SlideShow Presentation Here: https://docs.google.com/presentation/d/1Wr97-zyEMPbu1zl9BVycTq1GGVZjxuFjEt0wySWisj4/edit?usp=sharing <br />
 Devpost Submission: https://devpost.com/software/bytehacks
 
 ## Inspiration
